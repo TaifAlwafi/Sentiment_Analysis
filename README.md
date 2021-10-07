@@ -31,10 +31,9 @@ The provided dataset **(COVID19 Tweets)** consists of 179108 tweets (179108 rows
  
             
 ## Objective 
+The use of data analysis that is one of the most important branches of the NLP and the goal in general:
 
-The use of data analysis that is one of the most important branches of the NLP and the goal in general: <br />
-
-that the questionnaires and surveys are no longer sufficient to know the opinions of people in the presence of big data, so we now use sentiment analysis, In the sense of analyzing people's feelings and perspectives through what they write and benefiting from the experiences of others, and in particular, we want to know the people's Sentiment and emotions in the pandemic Covid -19
+that the questionnaires and surveys are no longer sufficient to know the opinions of people in the presence of big data, so we now use sentiment analysis, In the sense of analyzing people's feelings and perspectives through what they write and in particular, we want to know the people's Sentiment and emotions in the pandemic Covid -19
 
 ## Tools
 
