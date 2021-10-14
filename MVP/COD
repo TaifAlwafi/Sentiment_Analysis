@@ -1,0 +1,12 @@
+# Minimum Viable Product (MVP)
+
+The goal of this project to extract the features of tweets and analyze the opinion of tweets as positive, negative.
+
+This notebook is organized as follows:
+- Importing the necessary libraries
+- Read COVID-19 Tweet .csv file 
+- Exploratory data analysis
+- Sentiment Anlaysis for Tweets 
+- Train Logistic Regression model 
+
+Begging I trained a Logistic Regression model , I got 92.% Accuracy. 
