@@ -2,7 +2,7 @@
 
 
 
-The aim of the project is to analyze tweets about covid-19 to determine how people feel about it.
+The aim of the project is to analyze tweets about covid-19 to determine how people feel about it. Details can be found in [notebook](https://github.com/TaifAlwafi/Sentiment_Analysis/blob/main/MVP(Sentiment%20Analysis).ipynb)
 
 
 
@@ -25,3 +25,5 @@ A bellow pie chart demonstrates the ratio between negative and positive tweets.
  The heatmap of dataframe shows correlations between `user_favourites` and `user_followers`
 
 <img width="404" alt="Screen Shot 1443-03-08 at 9 04 29 PM" src="https://user-images.githubusercontent.com/52444016/137371986-084d39ca-fcde-4531-95d2-e9f5fa1df825.png">
+
+)
