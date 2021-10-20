@@ -15,7 +15,7 @@ The dataset contains 179108 tweets (179108 rows × 13 columns). A features inclu
 Preprocessing the ``text`` feature using the following NLP techniques : Converting to lowercase, remove text in square brackets, remove links, Remove punctuation, remove words containing numbers, removing stop words and Lemmatization.
 
 ### Models
-Logistic regression,Support vector machine, and neural network classifiers were used and after training  the logistics regression model got the highest accuracy.
+Logistic regression,Support vector machine, Naive bayes, and neural network classifiers were used and after training  the logistics regression model got the highest accuracy.
 
  
 ### Model Evaluation and Selection
@@ -24,7 +24,15 @@ The score for logistic regression is <br />
 - Training:  99.07%
 - Test set:  94.44%
 
+The score for svm is  <br />
+- Training:  96.22%
+- Test set:  93.96% 
 
+The score for Naive bayes is <br />
+- Training:  91.23%
+- Test set:  84.40%
+
+accuracy for Neural network : 0.8672 
 
 # Tools
 - Numpy and Pandas for data manipulation
