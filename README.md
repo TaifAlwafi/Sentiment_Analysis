@@ -3,7 +3,7 @@
 This project aimed to use classification models to predict how a person feels about the coronavirus.  Impacts of the pandemic, such as economic strife, and unprecedented restrictions on social contact have threatened people's mental health. This need led to the development of an intervention strategy. A logistic regression model was developed on data provided from Kaggle.  Using machine learning models, the clinics will be able to identify those needing help and treatment by classifying tweets. 
 
 # Design
-This project was developed during the online data science bootcamp at SDAIA. I obtained the data from Kaggle, and it presents tweets about Coronavirus which contain words such as Corona-19, Coronavirus etc. I used ``SentimentIntensityAnalyzer`` to be labelling data. Classifying tweets to positive negative helps developed clinic intervention strategy to avoid risk mental health.
+This project was developed during the online data science bootcamp at SDAIA. I obtained the data from [Kaggle](https://www.kaggle.com/gpreda/covid19-tweets). <br /> , and it presents tweets about Coronavirus which contain words such as Corona-19, Coronavirus etc. I used ``SentimentIntensityAnalyzer`` to be labelling data. Classifying tweets to positive negative helps developed clinic intervention strategy to avoid risk mental health.
 
 # Data
 The dataset contains 179108 tweets (179108 rows × 13 columns). A few features include location of user and hashtags and retweet. Nearly the dataset contains 13 features although I used one feature 'text' in training model
