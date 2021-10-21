@@ -35,16 +35,18 @@ The score for logistic regression is <br/>
 
 
 The score for svm is  <br />
-- Training:  96.21%
-- Test set:  94.17%
+- Training: 96.22% 
+- Test set: 93.96%
+
 
 The score for Bernoulli naive bayes is <br />
 - Training:  91.18%
 - Test set:  84.76%
 
 The score for Neural network is <br />
-- Training:  91.23%
-- Test set:  84.40%
+- Training: 86.68
+- Test set: 86.15%
+
 
 # Tools
 -  Pandas for data manipulation
