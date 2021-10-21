@@ -11,7 +11,7 @@ This project was developed during the online data science Bootcamp at SDAIA. I o
 # Data
 The dataset contains 179108 tweets and 13 features : ``user_name``, ``user_location``, ``user_description``, ``user_created``,
        ``user_followers``, ``user_friends``, ``user_favourites``, ``user_verified``,
-       ``date``, ``text``, ``hashtags``, ``source``, ``is_retweet`` . Although I used one feature ``text``  and I added  ``Label`` column contain the tweet sentiment.
+       ``date``, ``text``, ``hashtags``, ``source``, ``is_retweet`` . Although I used one feature ``text``  and I added  ``Label`` column contain the tweet sentiment. to upload data you can find at this link ( [Data](https://drive.google.com/drive/folders/10QQVC-o7ZenzKOugSSeByriau2MhW33K?usp=sharing ) )
 # Algorithms
 
 ### Feature Engineering
