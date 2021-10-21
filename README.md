@@ -18,7 +18,7 @@ The dataset contains 179108 tweets and 13 features : ``user_name``, ``user_locat
 Preprocessing the ``text`` feature using the following NLP techniques :
 - Converting to lowercase, removing text in square brackets, removing links, Removing punctuation, removing words containing numbers, removing stop words, and Lemmatization.
 - labeling text feature using ``SentimentIntensityAnalyzer`` 0 for negative and 1 for positive.
-- 
+
 
 ### Models
 Logistic regression,Support vector machine, Bernoulli naive bayes, and neural network classifiers were used and after training  the logistics regression model got the highest accuracy.
